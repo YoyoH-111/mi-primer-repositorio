@@ -1,0 +1,18 @@
+body{
+    font-family: monospace;
+    font-size: medium;
+}
+
+.playera{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    width: 800px;
+    height: auto;
+    align-items: center;
+}
+
+.playera img{
+    width: 100%;
+    border-radius: 20px;
+    height: auto;
+}
